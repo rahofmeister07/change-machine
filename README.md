@@ -14,7 +14,7 @@ Download Visual Studios 2022 with C/C++ extension
 <img width="1920" height="1080" alt="C++ChangeMachine" src="https://github.com/user-attachments/assets/f66ba7e6-39ef-425e-a8f7-f51b4d302dec" />
 
 ### Add Existing Item to Source Folder
-<img width="1911" height="1080" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/9e5396e7-d245-4308-8716-3cda6ab6e137" />
+<img width="3840" height="1080" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/de89eeee-edbb-485e-a48a-fa38462cc841" />
 
 ### Remove C++ File From Source Folder
 <img width="1917" height="1080" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/83827325-4cab-43a7-8878-ddeab12a23c2" />
