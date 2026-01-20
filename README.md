@@ -4,6 +4,11 @@ A simple console program written in C that converts a dollar amount into common 
 
 ---
 
+## Program Flow
+<img width="703" height="744" alt="ChangeMachineFlowChart" src="https://github.com/user-attachments/assets/15c727e9-2e5e-469e-b079-8b8e389c79fe" />
+
+---
+
 ## How to Run
 Download Visual Studios 2022 with C/C++ extension
 
